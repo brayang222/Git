@@ -22,7 +22,12 @@ git branch -d ... = para eliminar una rama
 git log -p = para ver todos los cambios (q) para salir
 
  ------------------------   MERGUE/FUSIONAR     -------------------------------
+<<<<<<< HEAD
 (se debe estar en la rama que va a recibir la fusión(main))
 
 git merge ...La rama que queremos combinar = para combinar ramas
 
+=======
+
+(aprendiendo Git)
+>>>>>>> text-expand
