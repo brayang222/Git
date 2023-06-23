@@ -18,3 +18,9 @@ git checkout ... = para cambiar de rama
 git checkout -b ... = (crea una rama y va directamente a ella)
 git branch -m ... = cambiar el nombre de la rama
 git branch -d ... = para eliminar una rama
+
+git log -p = para ver todos los cambios (q) para salir
+
+ ------------------------   MERGUE/FUSIONAR     -------------------------------
+
+(aprendiendo Git)
