@@ -33,5 +33,6 @@ git pull origin main = para traer los cambios de github
 
 
 -------------------------- INICIAR  ----------------------------------
+git init = para iniciar
 git remote add origin ...link = para añadir el origen
 git push origin main = para subir cambios
