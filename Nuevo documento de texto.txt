@@ -10,3 +10,11 @@ git status = para ver el estatus del repositorio
 git rm --cached . = para sacar lo que había añadido
 git commit -m "agregué..." = agrega un comentario al commit
 git log = para ver los datos del commit
+code . = para abrir vs Code
+git commit --amend = para cambiar el commit
+
+git branch ... = para crear una rama idéntica y hacer modificaciones
+git checkout ... = para cambiar de rama
+git checkout -b ... = (crea una rama y va directamente a ella)
+git branch -m ... = cambiar el nombre de la rama
+git branch -d ... = para eliminar una rama
