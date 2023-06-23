@@ -8,3 +8,5 @@ git init = para iniciar repositorio en dicha carpeta
 git add . = para añadir todo a el repositorio
 git status = para ver el estatus del repositorio
 git rm --cached . = para sacar lo que había añadido
+git commit -m "agregué..." = agrega un comentario al commit
+git log = para ver los datos del commit
