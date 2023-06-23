@@ -30,3 +30,8 @@ git merge ...La rama que queremos combinar = para combinar ramas
 git clone ...link del repositorio = clonar un repositorio
 git push origin main = para subir cambios
 git pull origin main = para traer los cambios de github
+
+
+-------------------------- INICIAR  ----------------------------------
+git remote add origin ...link = para añadir el origen
+git push origin main = para subir cambios
