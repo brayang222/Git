@@ -1,0 +1,10 @@
+Cd = change directory, cambia la posición, también te devuelve al punto inicial
+ls = Muestra todas las carpetas y archivos que hay en tu pos
+mkdir = crea una carpeta
+rmdir = elimina una carpeta
+clear = elimina los comandos
+flecha arriba = muestra los comandos anteriores
+git init = para iniciar repositorio en dicha carpeta
+git add . = para añadir todo a el repositorio
+git status = para ver el estatus del repositorio
+git rm --cached . = para sacar lo que había añadido
